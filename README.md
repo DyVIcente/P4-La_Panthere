@@ -23,3 +23,11 @@
 -Le site doit être codé en HTML et CSS.
 -Responsive pour toutes tailles d'écran.
 
+
+### Performances avant changement:
+<img src="https://user-images.githubusercontent.com/95346160/218695728-f64400a2-7e1e-4913-8103-61554878614f.png" alt="image_perfoBefore" />
+
+### Performances après changement:
+<img src="https://user-images.githubusercontent.com/95346160/218695766-6779ef4d-a96e-4cbc-903c-903d8d9fa416.png" alt="image_perfoBefore" />
+<img src="https://user-images.githubusercontent.com/95346160/218695772-a15ac4be-14ed-4e55-afc7-3fe3dad0f084.png" alt="image_perfoBefore" />
+
